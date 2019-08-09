@@ -1,3 +1,4 @@
+
 ## Write a program that receives a number on the input.
 
   - If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". 
@@ -30,6 +31,7 @@ JugsMugsPugs
 ```
 ```
 number =  input()
+a=number
 digit = int(number)
 if (digit%3==0)or(digit%5==0)or(digit%7==0)or('3' in number)or('5' in number)or('7' in number):
   a =""
