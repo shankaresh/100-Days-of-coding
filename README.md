@@ -23,3 +23,6 @@
 20. [JugsMugsPugs](JugsMugsPugs.md)
 21. [JugsMugsPugs LITE](JugsMugsPugsLite.md)
 22. [JugsMugsPugs PLUS](JugsMugsPugsPlus.md)
+23. [JugsMugsPugsPlus and Reverse](JugsMugsPugsPlus&Reverse.md)
+24. [JugsMugsPugsPlusReverse Range](JugsMugsPugsPlusReverseRange.md)
+25. [JugsMugsPugs Special](JugsMugsPugsSpecial.md)
