@@ -26,3 +26,6 @@
 23. [JugsMugsPugsPlus and Reverse](JugsMugsPugsPlus&Reverse.md)
 24. [JugsMugsPugsPlusReverse Range](JugsMugsPugsPlusReverseRange.md)
 25. [JugsMugsPugs Special](JugsMugsPugsSpecial.md)
+26. [N numbers are given in the input. Read them and print their sum.](SumOfNumber.md)
+27. [N cubes are taken from N number of intergers. Read them and print their sum.](SumOfCubes.md)
+28. [N factorials are taken from N number of intergers. Read them and print their sum.](SumOfFactorials.md)
