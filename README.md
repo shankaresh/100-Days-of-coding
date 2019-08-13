@@ -29,3 +29,5 @@
 26. [N numbers are given in the input. Read them and print their sum.](SumOfNumber.md)
 27. [N cubes are taken from N number of intergers. Read them and print their sum.](SumOfCubes.md)
 28. [N factorials are taken from N number of intergers. Read them and print their sum.](SumOfFactorials.md)
+29. [For given integer n ≤ 9 print a ladder of n steps. The k-th step consists of the integers from 1 to k without spaces between them.](Ladder.md)
+30. [There was a set of cards with numbers from 1 to N. One of the card is now lost. Determine the number on that lost card given the numbers for the remaining cards.](LostCard.md)
