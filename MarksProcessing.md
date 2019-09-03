@@ -58,10 +58,11 @@ for key,value in sorted(inputDict.items()):
   if value not in scoreDict.keys():
     scoreDict[value] = key
   else:
-    arr = []
-    arr.append(scoreDict[value])
-    arr.append(key)
-    scoreDict[value] = arr
+    try:
+      scoreDict[marks].append(names)
+    except:
+      scoreDict[marks] = [scoreDict[marks]]
+      scoreDict[marks].append(names)
 
 
 
