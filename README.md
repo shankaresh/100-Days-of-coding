@@ -37,3 +37,7 @@
 34. [Given a string in which the letter h occurs at least twice. Remove from that string the first and the last occurrence of the letter h, as well as all the characters between them.](StringRemoveFragment.md)
 35. [Given a string in which the letter h occurs at least twice, reverse the sequence of characters enclosed between the first and last occurrences of it.](StringReverseFragment.md)
 36. [Given a string in which the letter h occurs at least twice, replace every occurrence of the letter h by the letter H, except for the first and the last ones.](StringReplaceInFragment.md)
+37. ......
+
+# Mini-Project
+- [Rock_Paper_Scissor using simple commands in python](MiniProject.md)
