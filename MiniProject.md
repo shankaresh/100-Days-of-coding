@@ -1,17 +1,18 @@
 # Rock_Paper_Scissor
 ## Description
-Python can do literally anything with it. Python can also be used for game development. Here i create a simple command line Rock-Paper-Scissor game without using any external game libraries like PyGame.
+*Python can do literally anything with it. Python can also be used for game development. Here i create a simple command line Rock-Paper-Scissor game without using any external game libraries like PyGame.*
 
-In this game, gamer gets the first chance to pick the option among Rock, Paper and Scissor. After that computer selects from remaining two choices(randomly), then winner is decided as per the rules.randint() inbuilt function is used for generating random integer value within the given range.And the values of the choice are initialized using the dictionary used in function.
+*In this game, gamer gets the first chance to pick the option among Rock, Paper and Scissor. After that computer selects from remaining two choices(randomly), then winner is decided as per the rules.randint() inbuilt function is used for generating random integer value within the given range.And the values of the choice are initialized using the dictionary used in function.*
 
-Rules :
+> Rules :
+```
 Rock vs Paper-> Paper wins
 Rock vs Scissor-> Rock wins
 Paper vs Scissor-> Scissor wins
 There is no same choice possibilities 
-
-## Program
 ```
+## Program
+```python
 # import random module 
 import random 
 # def a function contains value for the choice 
@@ -77,98 +78,4 @@ while True:
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 print("\t       Thanks for playing                 ")
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-```
-
-## Output
-```
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Hello gamer , Welcome to Rock-Paper-Scissor game
-
-Rules : 
- Rock vs Paper -> Paper wins 
- Rock vs Scissor -> Rock wins 
- Paper vs Scissor -> Scissor wins 
- There is no same choice possibilities 
-
-GAME MOOD : Gamer vs Computer
-
-game starts...
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Vaild Choice :
- 1 - for ROCK
- 2 - for PAPER
- 3 - for SCISSOR
-
-Gamer turn: 1
-        Gamer choice is :  Rock
-
-Now its computer turn....
-
-        Computer choice is :  Scissor
-
-``````````````````````````````````````````````````
-`       <<< Rock  vs  Scissor >>>                `
-`    Rock wins =>  *** Gamer  wins ***           `
-``````````````````````````````````````````````````
-` Gamer Points:  1      Computer Points:  0      `
-``````````````````````````````````````````````````
-
-Do you want to end the game? (press x or X)
-         OR 
-To continue press any.... 
-
-1
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Vaild Choice :
- 1 - for ROCK
- 2 - for PAPER
- 3 - for SCISSOR
-
-Gamer turn: 2
-        Gamer choice is :  Paper
-
-Now its computer turn....
-
-        Computer choice is :  Rock
-
-``````````````````````````````````````````````````
-`       <<< Paper  vs  Rock >>>                  `
-`    Paper wins =>  *** Gamer  wins ***                  `
-``````````````````````````````````````````````````
-` Gamer Points:  2      Computer Points:  0      `
-``````````````````````````````````````````````````
-
-Do you want to end the game? (press x or X)
-         OR 
-To continue press any.... 
-
-2
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Vaild Choice :
- 1 - for ROCK
- 2 - for PAPER
- 3 - for SCISSOR
-
-Gamer turn: 3
-        Gamer choice is :  Scissor
-
-Now its computer turn....
-
-        Computer choice is :  Rock
-
-``````````````````````````````````````````````````
-`       <<< Scissor  vs  Rock >>>                `
-`    Rock wins =>  ***Computer wins***           `
-``````````````````````````````````````````````````
-` Gamer Points:  2      Computer Points:  1      `
-``````````````````````````````````````````````````
-
-Do you want to end the game? (press x or X)
-         OR 
-To continue press any.... 
-
-x
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-               Thanks for playing                 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
