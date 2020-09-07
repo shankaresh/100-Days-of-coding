@@ -41,3 +41,10 @@
 
 # Mini-Project
 - [Rock_Paper_Scissor using simple commands in python](MiniProject.md)
+- [pptx](Rock Paper Scissor.pptx)
+
+# Certificate
+
+<p align="center">
+<img width="100%" src="https://github.com/shankaresh/certifications/blob/master/Kite%20certificate/kite_certificate_5.jpg" alt="awarded price amount 5000/-"/>
+</p>
