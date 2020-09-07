@@ -41,7 +41,7 @@
 
 # Mini-Project
 - [Rock_Paper_Scissor using simple commands in python](MiniProject.md)
-- [pptx](Rock Paper Scissor.pptx)
+- [pptx](https://github.com/shankaresh/100-Days-of-coding/blob/master/Rock%20Paper%20Scissor.pptx)
 
 # Certificate
 
